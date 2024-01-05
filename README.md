@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Bhavana Tiwari</h1>
-<h3 align="center">A passionate frontend developer and Frontend Developer</h3>
+<h3 align="center">A passionate Frontend and Backend Developer</h3>
 
 <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="coding" align="right" width="400">
 
