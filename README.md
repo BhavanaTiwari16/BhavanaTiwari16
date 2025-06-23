@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Bhavana Tiwari</h1>
-<h3 align="center">A passionate Frontend and Backend Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer and Programmer</h3>
 
 <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="coding" align="right" width="400">
 
-- 🌱 I’m currently learning **Frontend Web Development and Designing**
+- 🌱 I’m currently learning **MERN Stack Web Development and Designing**
 
 - 📫 Reach me at: **bhavanatiwaricse@gmail.com**
 
